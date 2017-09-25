@@ -1,0 +1,42 @@
+{
+  "level": {
+    "name": "LEVEL 2",
+    "formation_speed": "1",
+    "formation_x_size": ".25",
+    "formation_y_size": ".25",
+    "alien_rows": {
+      "alien_row": [
+        {
+          "x": "0",
+          "y": "-2",
+          "amount": "1"
+        },
+        {
+          "x": "-1",
+          "y": "-1",
+          "amount": "3"
+        },
+        {
+          "x": "-2",
+          "y": "0",
+          "amount": "5"
+        },
+        {
+          "x": "-3",
+          "y": "1",
+          "amount": "7"
+        },
+        {
+          "x": "-4",
+          "y": "2",
+          "amount": "9"
+        },
+        {
+          "x": "-5",
+          "y": "3",
+          "amount": "11"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "level": {
+    "name": "LEVEL 1",
+    "formation_speed": "1",
+    "formation_x_size": ".25",
+    "formation_y_size": "0",
+    "alien_rows": {
+      "alien_row": [
+        {
+          "x": "-2",
+          "y": "-2",
+          "amount": "5"
+        },
+        {
+          "x": "-3",
+          "y": "-1",
+          "amount": "7"
+        },
+        {
+          "x": "-3",
+          "y": "0",
+          "amount": "7"
+        },
+        {
+          "x": "-3",
+          "y": "1",
+          "amount": "7"
+        },
+        {
+          "x": "-3",
+          "y": "2",
+          "amount": "7"
+        }
+      ]
+    }
+  }
+}
